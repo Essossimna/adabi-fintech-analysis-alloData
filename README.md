@@ -7,7 +7,7 @@ Analyze the evolution and adoption of Fintechs in **West Africa** between **2000
 
 
 
-## Key Findings
+## Key findings
 
 - **Internet Access**: 57.54%  
 - **Bank Account Ownership**: 50.03%  
@@ -18,7 +18,7 @@ Analyze the evolution and adoption of Fintechs in **West Africa** between **2000
 
 
 
-##  Most Common Transactions
+##  Most common transactions
 
 | Transaction Type    | % of Users / Transaction Value  |
 |---------------------|---------------------------------|
@@ -29,33 +29,33 @@ Analyze the evolution and adoption of Fintechs in **West Africa** between **2000
 
 
 
-## Trends by Country
+## Trends by country
 
 - **High Fintech Adoption**: Ghana, Togo, Niger, Gambia (~43%)  
 - **High Banking but Low Fintech Adoption**: Côte d'Ivoire, Burkina Faso
 
 
-##  Demographic Groups
+##  Demographic groups
 
 - **26-35 years old**: Most active adopters  
 - **18-25 years old**: Limited by high costs  
 - **60+ years old**: Limited by lack of training  
 
 
-## Adoption Trends Over Time
+## Adoption trends over time
 
 - Peak adoption in 2020 (likely due to COVID-19 pandemic)  
 - Second peak in 2022, followed by a decline suggesting challenges for sustainable adoption  
 
 
-##  Adoption Barriers
+##  Adoption barriers
 
 - Distrust in digital platforms  
 - High costs, especially for young adults  
 - Lack of training for seniors  
 - Limited internet access in some regions  
 
-##  Recommendations to Accelerate Adoption
+##  Recommendations to accelerate adoption
 
 - Improve internet access, especially in rural areas  
 - Increase training and awareness programs  
