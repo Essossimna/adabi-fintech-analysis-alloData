@@ -63,3 +63,8 @@ Analyze the evolution and adoption of Fintechs in **West Africa** between **2000
 - Integrate Fintechs with traditional banks  
 - Simplify user experience for seniors  
 
+
+
+<img width="1246" height="703" alt="image" src="https://github.com/user-attachments/assets/1a34b338-eccd-4c72-bbe7-5f0076acc57a" />
+<img width="1263" height="716" alt="image" src="https://github.com/user-attachments/assets/ff3cddcf-fd91-4ecf-a3de-6ae27cb29bd7" />
+
