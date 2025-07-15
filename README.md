@@ -1,7 +1,7 @@
 # adabi-fintech-analysis-alloData
 Analysis of Fintech adoption in West Africa (2000–2024) for the ADABI Challenge.
 
-Project Goal
+## Project Goal
 
 Analyze the evolution and adoption of Fintechs in **West Africa** between **2000 and 2024** using a dataset of 10,000 rows to understand financial inclusion and mobile banking dynamics.
 
@@ -27,14 +27,13 @@ Analyze the evolution and adoption of Fintechs in **West Africa** between **2000
 | Loans               | 25.32% of users                  |
 | Savings             | 24.88% of transactions          |
 
----
+
 
 ## Trends by Country
 
 - **High Fintech Adoption**: Ghana, Togo, Niger, Gambia (~43%)  
 - **High Banking but Low Fintech Adoption**: Côte d'Ivoire, Burkina Faso
 
----
 
 ##  Demographic Groups
 
@@ -42,14 +41,12 @@ Analyze the evolution and adoption of Fintechs in **West Africa** between **2000
 - **18-25 years old**: Limited by high costs  
 - **60+ years old**: Limited by lack of training  
 
----
 
 ## Adoption Trends Over Time
 
 - Peak adoption in 2020 (likely due to COVID-19 pandemic)  
 - Second peak in 2022, followed by a decline suggesting challenges for sustainable adoption  
 
----
 
 ##  Adoption Barriers
 
@@ -66,4 +63,3 @@ Analyze the evolution and adoption of Fintechs in **West Africa** between **2000
 - Integrate Fintechs with traditional banks  
 - Simplify user experience for seniors  
 
----
