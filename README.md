@@ -5,7 +5,7 @@ Project Goal
 
 Analyze the evolution and adoption of Fintechs in **West Africa** between **2000 and 2024** using a dataset of 10,000 rows to understand financial inclusion and mobile banking dynamics.
 
----
+
 
 ## Key Findings
 
@@ -16,7 +16,7 @@ Analyze the evolution and adoption of Fintechs in **West Africa** between **2000
 - **Fintech/Internet Ratio**: 0.73  
 - **Total Users (2000–2024)**: 2.5 billion  
 
----
+
 
 ##  Most Common Transactions
 
